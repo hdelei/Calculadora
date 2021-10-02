@@ -1,0 +1,7 @@
+C:\Users\vmendes\source\repos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\vmendes\source\repos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\vmendes\source\repos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\vmendes\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\vmendes\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\vmendes\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\vmendes\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
