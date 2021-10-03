@@ -75,8 +75,8 @@ namespace Calculadora
         }
 
         static decimal Operacoes(int operacao, Mensagens mensagem)
-        {
-            Calculo calculo = new Calculo();
+        {   
+            CalculoPadrao calculo = new CalculoPadrao();
             decimal resultado = 0;
             LerDados(mensagem);
 

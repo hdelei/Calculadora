@@ -5,28 +5,24 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Calculadora.Classes
-{    
-    public class Calculo : ICalculo
+{
+    public abstract class Calculo
     {
-        public decimal Dividir(decimal valor1, decimal valor2)
-        {
-            return valor1 / valor2;
-        }
-
-        public decimal Multiplicar(decimal valor1, decimal valor2)
-        {
-            return valor1 * valor2;
-        }
-
-        public decimal Somar(decimal valor1, decimal valor2)
+        public decimal Somar(decimal valor1, decimal valor2) 
         {
             return valor1 + valor2;
         }
-
         public decimal Subtrair(decimal valor1, decimal valor2)
         {
             return valor1 - valor2;
         }
 
+        public decimal Multiplicar(decimal valor1, decimal valor2) {
+            return valor1 * valor2;
+        }
+        public decimal Dividir(decimal valor1, decimal valor2)
+        {
+            return valor1 / valor2;
+        }
     }
 }

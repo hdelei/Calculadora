@@ -43,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\CalculoAvancado.cs" />
+    <Compile Include="Classes\CalculoPadrao.cs" />
     <Compile Include="Classes\Calculo.cs" />
-    <Compile Include="Classes\ICalculo.cs" />
     <Compile Include="Classes\Mensagens.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
